@@ -15,7 +15,6 @@ when an unauthorised person is detetcted at outside of the maindoor,four main th
 ## Project Components
 
 1. data(face) collecting code
-2. machine learning model
 3. training model
 4. face recognizing code
 5. apk development
@@ -35,7 +34,7 @@ when an unauthorised person is detetcted at outside of the maindoor,four main th
      3. face_encodings--computes a 128-dimension face embedding (or encoding) for each face.This embedding is a numerical representation of the facial features in a manner that allows the library to distinguish one face from another
      4. compare
   
-9. html,javascript,css lanuages
+9. react native,javascript lanuages
 10. flask frameWork for backend
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -80,7 +79,7 @@ To run example code that will identify faces and if they find a face trained wil
 ---gpio pins used to lock and and unlock doors and generate alarm and lights. 
 
 # to do:
-1. develop apk or web page using javascript,css and html
+1. develop apk or web page l
 2. backend for apk using frameworks like flask or fastApi 
 
 
